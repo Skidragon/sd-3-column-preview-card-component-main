@@ -77,7 +77,7 @@
   }
   .card__cta:hover {
     background: none;
-    border: .2rem solid var(--white);
+    box-shadow: 0 0 0 0.2rem var(--white);
     color: var(--white);
   }
   .attribution {
