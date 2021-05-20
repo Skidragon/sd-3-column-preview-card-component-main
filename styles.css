@@ -80,10 +80,11 @@
     color: var(--orange);
     padding: 1em 2em;
     border-radius: 25px;
+    border: 4px solid transparent;
   }
   .card__cta:hover {
     background: none;
-    box-shadow: 0 0 0 0.2rem var(--white);
+    border: 4px solid var(--white);
     color: var(--white);
   }
   .attribution {
