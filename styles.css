@@ -50,8 +50,14 @@
   .card-suv {
     background: var(--blue);
   }
+  .card-suv .card__cta {
+    color: var(--blue);
+  }
   .card-luxury {
     background: var(--green);
+  }
+  .card-luxury .card__cta {
+    color: var(--green);
   }
   .card__title {
     text-transform: uppercase;
